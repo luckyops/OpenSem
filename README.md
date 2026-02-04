@@ -7,11 +7,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/luckyops/OpenSem)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-native-green.svg)](https://docs.claude.com/claude-code)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-native-green.svg)](https://platform.claude.com/docs/en/home)
 
 **10-30x efficiency boost • Zero scripts • 3-minute setup**
 
-> **⚠️ IMPORTANT:** OpenSem requires [Serena](https://github.com/oraios/serena) and [Superpowers](https://github.com/anthropics/claude-code-superpowers) to work. **Install them first before continuing.**
+> **⚠️ IMPORTANT:** OpenSem requires [Serena](https://github.com/oraios/serena) and [Superpowers](https://github.com/obra/superpowers) to work. **Install them first before continuing.**
 
 [What is OpenSem?](#-what-is-opensem) •
 [Before vs After](#-before-vs-after) •
@@ -31,7 +31,7 @@
 **OpenSem** is a bootstrapping template system that activates two powerful Claude Code plugins:
 
 - **[Serena](https://github.com/oraios/serena)** – LSP-powered semantic code analysis
-- **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** – Reusable skill system
+- **[Superpowers](https://github.com/obra/superpowers)** – Reusable skill system
 
 **Why it matters:**
 
@@ -126,7 +126,7 @@ Claude: *Uses LSP to understand:*
 | Component | Purpose | What happens without it | Download |
 |:----------|:--------|:------------------------|:---------|
 | **[Serena](https://github.com/oraios/serena)** | LSP semantic analysis | Claude can't understand your code structure | [GitHub](https://github.com/oraios/serena) • [Docs](https://oraios.github.io/serena/) |
-| **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** | Reusable skill system | No persistent workflows or patterns | [GitHub](https://github.com/anthropics/claude-code-superpowers) |
+| **[Superpowers](https://github.com/obra/superpowers)** | Reusable skill system | No persistent workflows or patterns | [GitHub](https://github.com/obra/superpowers) |
 
 **🔴 Do NOT skip this step. OpenSem cannot function without Serena + Superpowers.**
 
@@ -288,16 +288,16 @@ OpenSem is built upon amazing open-source tools:
 | Project | Description | Links |
 |:---------------|:-------------------|:-------------|
 | **[Serena](https://oraios.github.io/serena/)** | Semantic code analysis powered by LSP | [GitHub](https://github.com/oraios/serena) • [Docs](https://oraios.github.io/serena/) |
-| **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** | Powerful skill system for Claude Code | [GitHub](https://github.com/anthropics/claude-code-superpowers) |
-| **[Claude Code](https://docs.claude.com/claude-code)** | Next-generation AI coding assistant | [Docs](https://docs.claude.com/claude-code) |
+| **[Superpowers](https://github.com/obra/superpowers)** | Powerful skill system for Claude Code | [GitHub](https://github.com/obra/superpowers) |
+| **[Claude Code](https://platform.claude.com/docs/en/home)** | Next-generation AI coding assistant | [Docs](https://platform.claude.com/docs/en/home) |
 
 ---
 
 ## 🔗 Related Resources
 
 - [Serena Documentation](https://oraios.github.io/serena/) • [GitHub](https://github.com/oraios/serena)
-- [Superpowers Skills Library](https://github.com/anthropics/claude-code-superpowers)
-- [Claude Code Documentation](https://docs.claude.com/claude-code)
+- [Superpowers Skills Library](https://github.com/obra/superpowers)
+- [Claude Code Documentation](https://platform.claude.com/docs/en/home)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
 
 ---

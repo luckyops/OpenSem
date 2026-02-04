@@ -161,7 +161,7 @@ When multiple skills might apply, use this order:
 ## More Skills
 
 See the full skills library:
-- https://github.com/anthropics/claude-code-superpowers
+- https://github.com/obra/superpowers
 
 ## Contributing New Skills
 

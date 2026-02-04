@@ -7,11 +7,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/luckyops/OpenSem)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-native-green.svg)](https://docs.claude.com/claude-code)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-native-green.svg)](https://platform.claude.com/docs/en/home)
 
 **10-30x 效率提升 • 零脚本 • 3 分钟配置**
 
-> **⚠️ 重要提示：** OpenSem 需要先安装 [Serena](https://github.com/oraios/serena) 和 [Superpowers](https://github.com/anthropics/claude-code-superpowers) 才能使用。**请务必先安装这两个组件。**
+> **⚠️ 重要提示：** OpenSem 需要先安装 [Serena](https://github.com/oraios/serena) 和 [Superpowers](https://github.com/obra/superpowers) 才能使用。**请务必先安装这两个组件。**
 
 [什么是 OpenSem](#-什么是-opensem) •
 [使用前后对比](#-使用前后对比) •
@@ -31,7 +31,7 @@
 **OpenSem** 是一个初始化模板系统，用于激活 Claude Code 的两个核心插件：
 
 - **[Serena](https://github.com/oraios/serena)** – 基于 LSP 的语义代码分析
-- **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** – 可复用技能系统
+- **[Superpowers](https://github.com/obra/superpowers)** – 可复用技能系统
 
 **为什么重要：**
 
@@ -126,7 +126,7 @@ Claude：*使用 LSP 理解：*
 | 组件 | 作用 | 没有它会怎样 | 下载 |
 |:----------|:--------|:------------------------|:---------|
 | **[Serena](https://github.com/oraios/serena)** | LSP 语义分析 | Claude 无法理解你的代码结构 | [GitHub](https://github.com/oraios/serena) • [文档](https://oraios.github.io/serena/) |
-| **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** | 可复用技能系统 | 没有持久化工作流和模式 | [GitHub](https://github.com/anthropics/claude-code-superpowers) |
+| **[Superpowers](https://github.com/obra/superpowers)** | 可复用技能系统 | 没有持久化工作流和模式 | [GitHub](https://github.com/obra/superpowers) |
 
 **🔴 不要跳过这一步。没有 Serena + Superpowers，OpenSem 无法运行。**
 
@@ -288,16 +288,16 @@ OpenSem 建立在优秀的开源工具之上：
 | 项目 | 描述 | 链接 |
 |:---------------|:-------------------|:-------------|
 | **[Serena](https://oraios.github.io/serena/)** | 基于 LSP 的语义代码分析 | [GitHub](https://github.com/oraios/serena) • [文档](https://oraios.github.io/serena/) |
-| **[Superpowers](https://github.com/anthropics/claude-code-superpowers)** | Claude Code 强大的技能系统 | [GitHub](https://github.com/anthropics/claude-code-superpowers) |
-| **[Claude Code](https://docs.claude.com/claude-code)** | 下一代 AI 编程助手 | [文档](https://docs.claude.com/claude-code) |
+| **[Superpowers](https://github.com/obra/superpowers)** | Claude Code 强大的技能系统 | [GitHub](https://github.com/obra/superpowers) |
+| **[Claude Code](https://platform.claude.com/docs/en/home)** | 下一代 AI 编程助手 | [文档](https://platform.claude.com/docs/en/home) |
 
 ---
 
 ## 🔗 相关资源
 
 - [Serena 文档](https://oraios.github.io/serena/) • [GitHub](https://github.com/oraios/serena)
-- [Superpowers 技能库](https://github.com/anthropics/claude-code-superpowers)
-- [Claude Code 文档](https://docs.claude.com/claude-code)
+- [Superpowers 技能库](https://github.com/obra/superpowers)
+- [Claude Code 文档](https://platform.claude.com/docs/en/home)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
 
 ---
